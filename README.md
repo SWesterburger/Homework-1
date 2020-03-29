@@ -16,7 +16,7 @@
 
 * **Who are the founders of the company?**
 
-    Adyen was founded by a two seasoned payment industry professionals: [Mr. Pieter van der Does](https://www.linkedin.com/in/pieter-van-der-does-4824b11/) and [Mr. Arnout Schuijff](https://www.linkedin.com/in/arnoutschuijff/). Van der Does currently serves as CEO and Schuijff is CTO.
+    Adyen was founded by two seasoned payment industry professionals: [Mr. Pieter van der Does](https://www.linkedin.com/in/pieter-van-der-does-4824b11/) and [Mr. Arnout Schuijff](https://www.linkedin.com/in/arnoutschuijff/). Van der Does currently serves as CEO and Schuijff is CTO.
 
 * **How did the idea for the company (or project) come about?**
 
@@ -24,7 +24,7 @@
 
      *Sranantongo, Suriname's mostly used language*       
 
-    It is no coincidence the founders specificaly named their new company Adyen: to do it all over again. Van der Does and Schuijff previously founded a payment operator company called Bibit, which was acquired by Royal Bank of Scotland in 2004 for €001MM. Exactly two years later - on the day their *lockup* period expired - they decided they wanted to 'start all over again'. The result? Adyen.
+    It is no coincidence the founders specificaly named their new company Adyen: to do it all over again. Van der Does and Schuijff previously founded a payment operator company called Bibit, which was acquired by Royal Bank of Scotland in 2004 for €100 million. Exactly two years later - on the day their *lockup* period expired - they decided they wanted to 'start all over again'. The result? Adyen.
     
     Bibit started as a billing platform for small amounts of content. Amsterdam-based exchange AEX was one of the first customers using Bibit to sell financial information. Later on Bibit pivoted into payments and became on of the first companies to process the growing number of online payments as a result of the growing e-business model.[<sup>2</sup>](https://startupjuncture.com/2014/01/22/payments-startup-adyen) 
 
@@ -39,7 +39,7 @@
                                    
 * **How is the company funded? How much funding have they received?**
 
-    The fact that Adyen's two co-founders Pieter van der Does and Arnout Schuijff sold their previous company Bibit to Royal Bank of Schotland for €100MM, for a long time ensured sufficient funding for newely founded Adyen. It was only in September of 2011 (five years after they founded the company!) when they raised their first additional capital of €16MM. In subsequent years they closed several other funding rounds. In 2015 they closed their last funding round with Iconiq Capital and were valued at $2.3BN. In total they raised $282MM before going public in 2018.[<sup>4</sup>](https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/adyen) 
+    The fact that Adyen's two co-founders Pieter van der Does and Arnout Schuijff sold their previous company Bibit to Royal Bank of Scotland for €100 miilion, for a long time ensured sufficient funding for newely founded Adyen. It was only in September of 2011 (five years after they founded the company!) when they raised their first additional capital of €16MM. In subsequent years they closed several other funding rounds. In 2015 they closed their last funding round with Iconiq Capital and were valued at $2.3BN. In total they raised $282 million before going public in 2018.[<sup>4</sup>](https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/adyen) 
 
 ## **Business Activities:**
 
@@ -129,7 +129,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     Adyen has a proven to be disruptive in the global payments industry. As showcased by their rapid growth and impressive client base, we can conclude Adyen succesfully entered and revolutionized this domain. 
 
-    Adyen has been profitable since 2011. [<sup>15</sup>](https://www.vox.com/2017/4/12/15268326/adyen-2016-revenue-ebitda-profits-financial-results-ipo). Over FY2019 they reported a processed volume of €240 billion, up 51% year-on-year, with a net revenue of €497 million, up 43% year-on-year.
+    Adyen has been profitable since 2011.[<sup>15</sup>](https://www.vox.com/2017/4/12/15268326/adyen-2016-revenue-ebitda-profits-financial-results-ipo) Over FY2019 they reported a processed volume of €240 billion, up 51% year-on-year, with a net revenue of €497 million, up 43% year-on-year.
     
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
@@ -141,7 +141,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     As stated before, Adyen processed €240 billion in volume, up 51% year-on-year. This resulated in a net revenue of €497 million, up 43% year-on-year. Their EBITDA of €279 million saw a 54% year-on-year increase.[<sup>16</sup>](https://www.adyen.com/investor-relations/H2-2019)
 
-    Adyen is growing and continuously looking to scale their business. Recently they have engaged in exclusive partnerships with o.a. McDonalds, Subway and eBay.
+    Adyen is growing and continuously looking to scale their business. Recently they have engaged in exclusive partnerships with a.o. McDonalds, Subway and eBay.
 
 * **How is your company performing relative to competitors in the same domain?**
 
