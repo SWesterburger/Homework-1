@@ -4,7 +4,7 @@
 
 ![Adyen](images/AdyenLogo.png)
 
-## **Overview and Origin**
+## **Overview and Origin:**
 
 * **Name of company**
 
@@ -123,7 +123,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     Pitchbook also notes, as mentioned before, that recent years have seen extensive efforts towards consolidatio with big players acquiring some of these smaller players. This is done to acquire new, cutting-edge technology but also to try and impede smaller players to enter the market and successfully grow market share. 
 
-## **Results**
+## **Results:**
 
 * **What has been the business impact of this company so far?**
 
@@ -147,7 +147,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     Adyen seems to be able to generate high cash flows and sounds results. This is potentially due to high margins and relatively low working capital needs. It goes without saying Adyen is operating in a competitive market, but so far Adyen has proven to be able to scale its business solution by leveraging its unique offering of a one-stop solution. 
 
-## **Recommendations**
+## **Recommendations:**
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
@@ -163,7 +163,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     This product would build out and use the current 'customer insights' division of Adyen. Key challenge to make this additional service a success is to accurately map customer behavior and patterns. Especially in the world of influencers this is very important, as these patterns seem to change very fast. I can imagine that one of the first steps would be to create an algorithm to track in realtime the popularity, support base and reach of an individual influencer and of the platforms he/she is using. By analyzing these numbers a strategy can be developed on who (so what influencer) and also, and this is key, what brands to target. This way Adyen could proactively create a strategy where it could target a new audience, influencers, and the companies that use influencers to sell their products. Adyen could be vital to cement and strengthen this connection between brand and influencer by pitching their unique and new card/prepaid card service. 
 
-## **Addendum**
+## **Addendum:**
 
 1. https://www.adyen.com/about
 2. https://startupjuncture.com/2014/01/22/payments-startup-adyen
