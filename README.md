@@ -24,7 +24,7 @@
 
      *Sranantongo, Suriname's mostly used language*       
 
-    It is no coincidence the founders specificaly named their new company Adyen: to do it all over again. Van der Does and Schuijff previously founded a payment operator company called Bibit, which was acquired by Royal Bank of Scotland in 2004 for €001MM. Exactly two years later - on the day their *lock-up* period expired - they decided they wanted to 'start all over again'. The result? Adyen.
+    It is no coincidence the founders specificaly named their new company Adyen: to do it all over again. Van der Does and Schuijff previously founded a payment operator company called Bibit, which was acquired by Royal Bank of Scotland in 2004 for €001MM. Exactly two years later - on the day their *lockup* period expired - they decided they wanted to 'start all over again'. The result? Adyen.
     
     Bibit started as a billing platform for small amounts of content. Amsterdam-based exchange AEX was one of the first customers using Bibit to sell financial information. Later on Bibit pivoted into payments and became on of the first companies to process the growing number of online payments as a result of the growing e-business model.[<sup>2</sup>](https://startupjuncture.com/2014/01/22/payments-startup-adyen) 
 
@@ -81,11 +81,17 @@ What solution does this company offer that their competitors do not or cannot of
 
 * **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
+    Reviewing [Adyen's technology blog](https://www.adyen.com/blog/category/tech?category=tech) I quickly discovered Adyen is using a plethora of different technologies to build the stack they use to offer their clients a one stop shops for payment processing. Some of the technologies I recognize from the first classes in this course. For example, Adyen uses Jupyter and Spark for important parts of their datascience. Furthermore they use the concept of tokenization to secure highly confidential personal and financial data and use their proprietary APIs in their new prepaid/debit card vertical.
+
+    For this case study however, I decided to zoom in on Adyen's use of artificial intelligence for payments, as this unchartered terrority for Adyen.[<sup>10</sup>](  https://venturebeat.com/2019/12/05/adyen-ceo-on-ai-for-payments-i-was-surprised-how-effective-it-was/). As mentioned before, Adyen to date has been hesitant to acquire outside technology/companies to expand their business. Similarly, in an interview in 2019 with VentureBeat Adyen CEO Pieter van der Does expressed caution with 'hype driven trends' in tech. Van der Does stressed that this was his inital response towards AI as well, until he saw the results of some of the fraud detection algorithms they had developed in-house.[<sup>11</sup>](https://samsungnext.com/whats-next/category/podcasts/venturebeat-podcast-takeover-slush/).
+
+    Adyen uses the in-house developped fraud detection algorithms primarily to create their so called 'ShopperDNA feature' which allows them to leverage a large number of data points and make faster and more accurate decisions about the creditworthiness of customers. According to Adyen this technology saves makes these assesments 30% faster and more accurate. Adyen's anti fraud algorithms achieve this by limit losses (so by detecting fraud before it happens) but also, and this is more unique, by allowing more legitimater transactions to take place (some of them which would have been flagged/denied previously).
+
 ## **Landscape:**
 
 * **What domain of the financial industry is the company in?**
 
-    Adyen operates in the payments services domain within the financial technology industry.[<sup>15</sup>](https://stackshare.io/adyen)
+    Adyen operates in the payments services domain within the financial technology industry.[<sup>12</sup>](https://stackshare.io/adyen)
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
 
@@ -95,7 +101,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     As an effect, businesses who want to sell their product have a dazzling number of payment providers to chose from. Adyen was founded with the belief that an integrated solution to this fragmented payment solutions chain would ultimately benefit customers who would not have to make difficult decisions on each and every part of the chain anymore. 
 
-    In one of their most recent reports on the future of the payment industry, Accenture comes up with 10 trends that will define this domain for the years to come [<sup>16</sup>](https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends):
+    In one of their most recent reports on the future of the payment industry, Accenture comes up with 10 trends that will define this domain for the years to come [<sup>13</sup>](https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends):
 
     1. Generation Z rising: Gen Z will make up 40% of US consumers (they don't know a world without online shopping and tech)
     2. UX is the new gold: customer experience is becoming a prime competitive differentiator
@@ -111,7 +117,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * **What are the other major companies in this domain?**
 
-    According to Pitchbook [<sup>17</sup>](https://my.pitchbook.com/profile/54275-77/company/profile?exchangeId=AMS&exchangeSymbol=ADYEN#comparisons) PayPal, Square, Wirecard, Stripe and Adyen control 80% of the global payments market.
+    According to Pitchbook [<sup>14</sup>](https://my.pitchbook.com/profile/54275-77/company/profile?exchangeId=AMS&exchangeSymbol=ADYEN#comparisons) PayPal, Square, Wirecard, Stripe and Adyen control 80% of the global payments market.
 
     The remaining 20% is controlled by a huge variety of smaller players, mostly focusing on just part of the total value chain. Companies such as Nets, Worldline and Worldpay would fit in this category.
 
@@ -123,7 +129,7 @@ What solution does this company offer that their competitors do not or cannot of
 
     Adyen has a proven to be disruptive in the global payments industry. As showcased by their rapid growth and impressive client base, we can conclude Adyen succesfully entered and revolutionized this domain. 
 
-    Adyen has been profitable since 2011. [<sup>18</sup>](https://www.vox.com/2017/4/12/15268326/adyen-2016-revenue-ebitda-profits-financial-results-ipo). Over FY2019 they reported a processed volume of €240 billion, up 51% year-on-year, with a net revenue of €497 million, up 43% year-on-year.
+    Adyen has been profitable since 2011. [<sup>15</sup>](https://www.vox.com/2017/4/12/15268326/adyen-2016-revenue-ebitda-profits-financial-results-ipo). Over FY2019 they reported a processed volume of €240 billion, up 51% year-on-year, with a net revenue of €497 million, up 43% year-on-year.
     
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
@@ -133,7 +139,7 @@ What solution does this company offer that their competitors do not or cannot of
     2. Net revenue
     3. EBITDA
 
-    As stated before, Adyen processed €240 billion in volume, up 51% year-on-year. This resulated in a net revenue of €497 million, up 43% year-on-year. Their EBITDA of €279 million saw a 54% year-on-year increase.[<sup>19</sup>](https://www.adyen.com/investor-relations/H2-2019)
+    As stated before, Adyen processed €240 billion in volume, up 51% year-on-year. This resulated in a net revenue of €497 million, up 43% year-on-year. Their EBITDA of €279 million saw a 54% year-on-year increase.[<sup>16</sup>](https://www.adyen.com/investor-relations/H2-2019)
 
     Adyen is growing and continuously looking to scale their business. Recently they have engaged in exclusive partnerships with o.a. McDonalds, Subway and eBay.
 
@@ -145,7 +151,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
-    Adyen has recently been on a roll expanding its product offering and rapidly entered new regions. Most recently in early 2020 Adyen rolled out a complete new functionality where they offer merchants the possibility to issue debit and prepaid cards. Adyen uses advanced APIs to offer their clients both virtual and physical cards. [<sup>20</sup>](https://bankinnovation.net/allposts/biz-lines/payments/adyen-launches-card-issuing-product-to-deepen-relationships-with-clients/)
+    Adyen has recently been on a roll expanding its product offering and rapidly entered new regions. Most recently in early 2020 Adyen rolled out a complete new functionality where they offer merchants the possibility to issue debit and prepaid cards. Adyen uses advanced APIs to offer their clients both virtual and physical cards. [<sup>17</sup>](https://bankinnovation.net/allposts/biz-lines/payments/adyen-launches-card-issuing-product-to-deepen-relationships-with-clients/)
     
     It is difficult to advise Adyen on how to expand their offering based on the uniqueness of their product (basically tidying up and unifying the global payment value chain). However, bearing in mind the trends as indicated by Accenture (and mentione above) I think there could be an opportunity for Adyen in investing in partnerships with brannds specifically targetting Generation Z and their spending patterns. If I were advising Adyen I would highly recommend to study their approach towards vehicles that target this group of young people who don't know a world where tech was not arond. To start I would suggest to investigate the landscape of most popular apps used by this generation right now. I can imagine apps such as Instagram and TikTok would be high on the list. 
 
@@ -165,12 +171,12 @@ What solution does this company offer that their competitors do not or cannot of
 6. https://www.fool.com/investing/2020/01/06/will-new-product-help-adyen-make-its-expansion-pla.aspx
 7. https://www.adyen.com/customers
 8. https://seekingalpha.com/instablog/48916603-money-invest-expert/5273409-can-adyen-keep-up-growth
-
-
-
-
-16. https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends
-17. https://my.pitchbook.com/profile/54275-77/company/profile?exchangeId=AMS&exchangeSymbol=ADYEN#comparisons
-18. https://www.vox.com/2017/4/12/15268326/adyen-2016-revenue-ebitda-profits-financial-results-ipo
-19. https://www.adyen.com/investor-relations/H2-2019
-20. https://bankinnovation.net/allposts/biz-lines/payments/adyen-launches-card-issuing-product-to-deepen-relationships-with-clients/
+9. https://go.forrester.com/press-newsroom/the-forrester-wave-global-merchant-payment-providers-q4-2018/
+10.   https://venturebeat.com/2019/12/05/adyen-ceo-on-ai-for-payments-i-was-surprised-how-effective-it-was/
+11. https://samsungnext.com/whats-next/category/podcasts/venturebeat-podcast-takeover-slush/
+12. https://stackshare.io/adyen
+13.  https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends
+14. https://my.pitchbook.com/profile/54275-77/company/profile?exchangeId=AMS&exchangeSymbol=ADYEN#comparisons
+15. https://www.vox.com/2017/4/12/15268326/adyen-2016-revenue-ebitda-profits-financial-results-ipo
+16. https://www.adyen.com/investor-relations/H2-2019
+17. https://bankinnovation.net/allposts/biz-lines/payments/adyen-launches-card-issuing-product-to-deepen-relationships-with-clients/
