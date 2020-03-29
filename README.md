@@ -79,17 +79,43 @@ What solution does this company offer that their competitors do not or cannot of
     Does this mean Adyen is set up for further growth and success? They might very well be. Adyen and its main competitors currently hold about 80% of the payments market. In recent years some of Adyen's biggest competitors, for example PayPal, have grown rapidly by acquiring smaller companies and thus expanded their service offerings. Althought this might turn out to be a profitable strategy in the long run, it sure could also negatively impact them because of it can further complicate their technology stack. So far Adyen has chosen a different path: by growing their product organically. 
 
 
-
-
 * **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
 ## **Landscape:**
 
 * **What domain of the financial industry is the company in?**
 
+    Adyen operates in the payments services domain within the financial technology industry.[<sup>15</sup>](https://stackshare.io/adyen)
+
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
 
+    As mentioned before, from gold to digital wallets, payments have always evolved. Today's payment industry is a complex space for multiple reasons. 
+    
+    On the one hand financial transactions both in offline brick-and-mortar stores and online through e-commerce are rapidly increasing. On the other hand an increasing number of companies in this domain tries to profit from this opportunity by carving up the value chain in smaller parts and to be innovative (and profitable) in their part of the chain.
+
+    As an effect, businesses who want to sell their product have a dazzling number of payment providers to chose from. Adyen was founded with the belief that an integrated solution to this fragmented payment solutions chain would ultimately benefit customers who would not have to make difficult decisions on each and every part of the chain anymore. 
+
+    In one of their most recent reports on the future of the payment industry, Accenture comes up with 10 trends that will define this domain for the years to come [<sup>16</sup>](https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends):
+
+    1. Generation Z rising: Gen Z will make up 40% of US consumers (they don't know a world without online shopping and tech)
+    2. UX is the new gold: customer experience is becoming a prime competitive differentiator
+    3. Mobile hits its groove: API and open banking regulations will create a mobile payments boom
+    4. Rewards Revolution: consumers value rewards and will switch providers to get them
+    5. The network effect: by working together in ecosystems companies can multiply their own capabilities
+    6. Fintech and bank fusion: banks will try and synergize their brand recognition with the disruption brought by Fintech companies
+    7. An arms race in code: everything we know in the financial services will become a software code
+    8. Payments everywhere: everyone at any time can be a merchant and everyhting can be an acceptance device; this creates a bilateral payment network.
+    9. Fraudsters are innovative too: data security is one of the top challenges (2018 saw a whopping $31.3BN in global card losses)
+    10. RIP and replace required: it will be key to overhaul inflexible payment systems with agile frameworks to stay competitive in the future market
+
+
 * **What are the other major companies in this domain?**
+
+    According to Pitchbook [<sup>17</sup>](https://my.pitchbook.com/profile/54275-77/company/profile?exchangeId=AMS&exchangeSymbol=ADYEN#comparisons) PayPal, Square, Wirecard, Stripe and Adyen control 80% of the global payments market.
+
+    The remaining 20% is controlled by a huge variety of smaller players, mostly focusing on just part of the total value chain. Companies such as Nets, Worldline and Worldpay would fit in this category.
+
+    Pitchbook also notes, as mentioned before, that recent years have seen extensive efforts towards consolidatio with big players acquiring some of these smaller players. This is done to acquire new, cutting-edge technology but also to try and impede smaller players to enter the market and successfully grow market share. 
 
 ## **Results**
 
@@ -120,3 +146,8 @@ What solution does this company offer that their competitors do not or cannot of
 7. https://www.adyen.com/customers
 8. https://seekingalpha.com/instablog/48916603-money-invest-expert/5273409-can-adyen-keep-up-growth
 
+
+
+
+16. https://www.accenture.com/us-en/insight-banking-future-payments-ten-trends
+17. https://my.pitchbook.com/profile/54275-77/company/profile?exchangeId=AMS&exchangeSymbol=ADYEN#comparisons
